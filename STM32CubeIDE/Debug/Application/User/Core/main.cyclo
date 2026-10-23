@@ -1,0 +1,9 @@
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:107:6:alertas	7
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:150:5:main	4
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:246:6:SystemClock_Config	3
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:294:13:MX_ADC1_Init	5
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:366:13:MX_USART2_UART_Init	2
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:397:13:MX_DMA_Init	1
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:415:13:MX_GPIO_Init	1
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:455:6:temperatua	1
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/main.c:465:6:Error_Handler	1

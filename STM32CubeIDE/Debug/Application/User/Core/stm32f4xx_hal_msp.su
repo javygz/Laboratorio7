@@ -1,0 +1,5 @@
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/stm32f4xx_hal_msp.c:63:6:HAL_MspInit	16	static
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/stm32f4xx_hal_msp.c:88:6:HAL_ADC_MspInit	48	static
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/stm32f4xx_hal_msp.c:143:6:HAL_ADC_MspDeInit	16	static
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/stm32f4xx_hal_msp.c:175:6:HAL_UART_MspInit	48	static
+C:/Users/Javier/Desktop/Nueva carpeta/Uvege/dIGITAL2/STMlab/Laboratorio7/Core/Src/stm32f4xx_hal_msp.c:212:6:HAL_UART_MspDeInit	16	static
